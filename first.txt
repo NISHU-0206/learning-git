@@ -1,1 +1,1 @@
-Hello this is my first git repository tutorial for beginners.
+Hello this is my first git repository tutorial for beginners. (now learning git pull)
