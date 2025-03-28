@@ -3,5 +3,9 @@ now using for git diff command. (git diff)
 git diff utils.txt
 git diff --staged utils.txt
 
+agar gadbad ho jaye to wapis se purane state me lane ke liye:
 git reset utils.txt
 git checkout utils.txt
+
+agar dono files me gadbad ho gyi to:
+git checkout .
