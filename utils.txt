@@ -2,3 +2,6 @@ utility functions are described here(changing the content for pushing video)
 now using for git diff command. (git diff)
 git diff utils.txt
 git diff --staged utils.txt
+
+git reset utils.txt
+git checkout utils.txt
